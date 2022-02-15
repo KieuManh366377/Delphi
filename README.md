@@ -1,5 +1,5 @@
 # Delphi
-Delphi Library
+Delphi Library ... Nguồn Copy Sưu tầm từ Internet
 
 Tham khảo COM Add-Ins cho Delphi Link sau
 
